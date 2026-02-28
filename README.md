@@ -1,8 +1,7 @@
-# your-GitHub-username
 <!-- Banner Image -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=200&section=header&text=Harshawardhan%20Kapadnis&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=200&section=header&text=Harshawardhan%20Kapadnis&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">
@@ -16,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Engineering student specializing in **Artificial Intelligence & Data Science**
 
@@ -29,19 +28,20 @@
 📊 Focused on solving **real-world problems using AI and software systems**
 
 ---
-## 🌐 Connect With Me
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/harshawardhan-kapadnis-1baaa3256/)" target="_blank">
+<a href="https://www.linkedin.com/in/harshawardhan-kapadnis-1baaa3256/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/https://github.com/Harsh000830" target="_blank">
+<a href="https://github.com/Harsh000830">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://kaggle.com/https://www.kaggle.com/harshawardhan9070" target="_blank">
+<a href="https://www.kaggle.com/harshawardhan9070">
 <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle">
 </a>
 
@@ -49,63 +49,63 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://instagram.com/https://www.instagram.com/harshawardhan_1206/" target="_blank">
+<a href="https://www.instagram.com/harshawardhan_1206/">
 <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
 </a>
 
 </p>
 
-## 🛠 Tech Stack
+---
+
+# 🛠 Tech Stack
 
 ### Programming
 
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
 
-### AI / ML
+### Computer Vision
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge\&logo=pytorch)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge\&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge\&logo=opencv)
 
 ### Web Development
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge\&logo=express)
 
-### Tools & Databases
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+
+### Hardware / IoT
+
+![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge\&logo=arduino)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh000830&show_icons=true&theme=tokyonight"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh000830&layout=compact&theme=tokyonight"/>
 
-## 🌐 Connect With Me
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
+</p>
 
 ---
 
-⭐ *Always learning, building, and exploring new technologies.*
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harsh000830&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+⭐ **Always learning, building, and exploring new technologies.**
