@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-
+<div align="center">
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=200&section=header&text=Harshawardhan%20Kapadnis&fontSize=40&fontColor=ffffff"/>
 </p>
@@ -7,7 +7,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Harshawardhan+Kapadnis;AI+%2F+Data+Science+%26+Full+Stack+Developer;Generative+AI+Enthusiast;Building+Intelligent+Systems">
 </h1>
-
+<div align="center">
 ---
 
 🚀 **AI / Data Science & Full-Stack Developer**
@@ -28,6 +28,7 @@
 📊 Focused on solving **real-world problems using AI and software systems**
 
 ---
+## 🎯 Goals for 2026 : Master Generative AI and advanced AI technologies to develop impactful intelligent systems.
 
 # 🌐 Connect With Me
 
@@ -64,37 +65,16 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-
-### Computer Vision
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge\&logo=opencv)
-
-### Web Development
-
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
-
-### Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-
-### Hardware / IoT
-
 ![Arduino](https://img.shields.io/badge/Arduino-blue?style=for-the-badge\&logo=arduino)
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh000830&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh000830&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
