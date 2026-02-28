@@ -29,6 +29,31 @@
 📊 Focused on solving **real-world problems using AI and software systems**
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/harshawardhan-kapadnis-1baaa3256/)" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/https://github.com/Harsh000830" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://kaggle.com/https://www.kaggle.com/harshawardhan9070" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle">
+</a>
+
+<a href="mailto:harshawardhankapadnis@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://instagram.com/https://www.instagram.com/harshawardhan_1206/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
 
 ## 🛠 Tech Stack
 
