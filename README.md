@@ -11,7 +11,7 @@
 ---
 
 🚀 **AI / Data Science & Full-Stack Developer**
-💡 Passionate about building intelligent systems and scalable web applications.
+Passionate about building intelligent systems and scalable web applications.
 
 ## 👨‍💻 About Me
 
